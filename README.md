@@ -29,3 +29,7 @@ yarn start
 테스트 브라우저는 google Chrome 브라우저로 가로 1250px 이상.
 
 확인했던 브라우저: google Chrome 브라우저 버전 70.0.3538.77(공식 빌드) 
+
+## 실행 페이지
+
+https://redix8.github.io/todo_app/
